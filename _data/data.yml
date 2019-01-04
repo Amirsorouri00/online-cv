@@ -163,15 +163,15 @@ publications:
     Network Certificates:
       - title: Network+ 
         company: Donald E. Knuth
-        #conference: Addison-Wesley, 1968
+        conference: Addison-Wesley, 1968
 
       - title: CCNA
         authors: Cisco.
-        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: CCNP Switch && Route
         authors: Cisco
-        #conference: "Comm. ACM 4 (1961), 51–55"
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
