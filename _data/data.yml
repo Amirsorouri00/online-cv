@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Amirhossein Sorouri
@@ -32,99 +32,78 @@ sidebar:
         level: Native
 
       - idiom: Arabic
-        level: Professional
+        level: Business Level
 
     interests:
       - item: Piano
         link:
 
-      - item: Climbing
+      - item: Listening to Music
         link:
 
       - item: Cooking
         link:
 
-career-profile:
-    title: Samsung AUT Tech
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+#career-profile:
+#    title: Samsung AUT Tech
+#    summary: |
+      
 
-      Second paragraph if required.
+#      Second paragraph if required.
 
 education:
     - degree: MSc in Computer Software Engineering
       university: Iran University of Science and Technology
       time: 2018 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        I am researching on Storage, File System and also on the High Performance Computing(HPC) area. 
+          - Ranked 91 and 170 in Iran's M.Sc. nationwide entrance Exam(2018).
+          - Advisor Professor: Mohsen Sharifi@IUST
+          
 
     - degree: BSc Computer Engineering-Information Technology
-      university: Isfahan University of Science and Technology
+      university: Isfahan University of Technology
       time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      
+          - Grade: 16.8
+          - Advisor Professor: Massoud Reza Hashemi@IUT
+          - Ranked 1707 between at least 300k participants in Iran's M.Sc. nationwide entrance Exam(2018).
+          - Project Title: Optimizing Internet Of Things network Processes via Fog Computing Techniques.
 
 experiences:
     - role: Software Engineer 
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2017 - 2018
+      company: Isfahan Scientific Research Campus, Isfahan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+        Working/Researching on the Blockchain token implementation that can be helpful for motivating human resources,
+        and customers of every organization.
+          - Ethereum
+          - etc
 
     - role: Trainee of Network Security
-      time: 2014 - 2015
-      company: Google, London
+      time: 2017
+      company: National Library of Islamic Republic of Iran, Network Security Office, Tehran
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I was responsible for implementing network scenarios using Cisco Devices[2960, 3850, ASA firewall series], 
+        HP G6 server, Client Systems, Virtualization Tools[ESXI, VSphere, Docker Container], Network Monitoring Tools[PRTG]. 
+        I did this Project under the supervision of the manager of the Office "Ali Arab Ameri"
 
-          - Bullet point
-          - Bullet point
+        I also learned Help Desking on the Help Desk Office of the NLAI organization under the supervision of the 
+        Manager of the office Mr Mazinani.
+          - Importance of Network Domain and it's use cases.
+          - Some of the Power Maintenance techniques.
+          - etc
 
-    - role: Trainee of Help Desk
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Designer && Full Stack Developer 
+      time: 2018 - Present
+      company: Praxo Startup@Samsung Aut Tech, Tehran
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        We are about to implement Healthcare Platform, and some of the side required tools, which can be very helpful for 
+        both Patients/Customers and Doctors/Healthcare Systems.
 
-          - Bullet point
-          - Bullet point
+        I am Software Designer and Full Stack Developer. Since the first day, I implemented ourself purified 
+        SPA framework via pure Javacript. I also implemented one of our platforms using our Js framework and Django.
 
 projects:
     title: Projects
@@ -134,67 +113,67 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Online (Web Application) Examiner System Based on Game Theory
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "It is the result of  integration of 8 sub-projects of 8 team undergraduate course Software Engineering. Our team was responsible for developing “Turn Rating and Grades Database” part of the system and I was head of the team. We had the most important part of the whole application (almost we were at the center). I was responsible for documenting results before and after starting each step in tems of software engineering. Finally we developed the application and on the march 2017 we succeded and 15 students was present for testing the final application.It is done under the supervision of DR. Faramarz Hendessi. You can see our part of the Application on my Github."
 
-      - title: DevStudio
+      - title: Stratego AI Game Player   
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "It is the result of Advanced Programming Course of BSc. I implemented this player having Contribution with Mostafa Lesani(My teammate). Finally this Game ranked One on both between about 20 teams from inside IUT and other participants inside contest of the IUT from inside and outside IUT."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      #- title: Tempo
+      #  link: "#"
+      #  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      #- title: Atom
+      #  link: "#"
+      #  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      #- title: Delta
+      #  link: "#"
+      #  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Certifications
+    #intro: |
+    #  You can list your publications in this section. Lorem ipsum dolor sit
+    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #  bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    Network Certificates:
+      - title: Network+ 
+        #authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: CCNA
+        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: CCNP Switch && Route
+        #authors: Edgar T. Irons
+        #conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python, Django
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Javascript & jQuery, Node
         level: 98%
 
       - name: React JS
         level: 60%
 
       - name: Cisco
-        level: 70%
+        level: 75%
 
       - name: Virtualization[ESXI, Container, VSphere]
-        level: 70%
+        level: 75%
 
-      - name: Avg(C,C++,Php,Laravel,Java)
-        level: 65%
+      - name: Avg(C, C++ , Php, Laravel, Java)
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
