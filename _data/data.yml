@@ -155,10 +155,8 @@ projects:
         
 publications:
     title: Certificates
-    #intro: |
-    #  You can list your publications in this section. Lorem ipsum dolor sit
-    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    #  bibendum fringilla a eu lectus.
+    intro: |
+      I have the Following Certificates.
 
     Network Certificates:
       - title: Network+ 
