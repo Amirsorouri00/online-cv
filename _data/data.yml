@@ -65,11 +65,11 @@ education:
       university: Isfahan University of Technology
       time: 2014 - 2018
       details: |
-      
+        dfgd
           - Grade: 16.8
           - Advisor Professor: Massoud Reza Hashemi@IUT
           - Ranked 1707 between at least 300k participants in Iran's M.Sc. nationwide entrance Exam in 2018.
-          - Project Title: Optimizing Internet Of Things network Processes via Fog Computing Techniques.
+          - Project Title: Optimizing Internet Of Things network Processes via Fog Computing Concepts and Serverless Techniques.
 
 experiences:
     - role: Software Engineer 
@@ -86,8 +86,8 @@ experiences:
       company: National Library of Islamic Republic of Iran, Network Security Office, Tehran
       details: |
         I was responsible for implementing network scenarios using Cisco Devices[2960, 3850, ASA firewall series], 
-        HP G6 server, Client Systems, Virtualization Tools[ESXI, VSphere, VCenter, Workstation], Network Monitoring Tools[PRTG]. 
-        I did this Project under the supervision of the manager of the Office "Ali Arab Ameri"
+        HP G6 server, Client Systems, Virtualization Tools[ESXI, VSphere, VCenter, Workstation], Network Monitoring Tools[PRTG]
+        Windows Server 2016 services[DHCP, Active Directory]. I did this Project under the supervision of the manager of the Office "Ali Arab Ameri"
 
         I also learned Help Desking on the Help Desk Office of the NLAI organization under the supervision of the 
         Manager of the office Mr Mazinani.
@@ -103,7 +103,7 @@ experiences:
         We are about to develop Healthcare Platform and some of the side required tools, which can be very helpful for 
         both Patients/Customers and Doctors/Healthcare Systems.
 
-        I am Software Designer and Full Stack Developer. Since the first day, I implemented ourself purified 
+        I am Software Designer and Full Stack Developer. Since the first day, I implemented a purified 
         SPA framework via pure Javacript. I also implemented one of our platforms using our Js framework and Django.
 
 projects:
