@@ -147,12 +147,11 @@ projects:
 publications:
     title: Accomplishments
     intro: |
-      I have the Following Certificates.
       
     papers:
       - title: Network+
         authors: CompTia
-        conference: 1968
+        conference: 2016
 
       - title: CCNA
         authors: Cisco
