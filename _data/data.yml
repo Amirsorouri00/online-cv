@@ -60,7 +60,6 @@ education:
           - Ranked 91 and 170 in Iran's M.Sc. nationwide entrance Exam(2018).
           - Advisor Professor: Mohsen Sharifi@IUST
           
-
     - degree: BSc Computer Engineering-Information Technology
       university: Isfahan University of Technology
       time: 2014 - 2018
@@ -70,7 +69,6 @@ education:
           - Advisor Professor: Massoud Reza Hashemi@IUT
           - Ranked 1707 between at least 300k participants in Iran's M.Sc. nationwide entrance Exam in 2018.
           - Project Title: Optimizing Internet Of Things network Processes via Fog Computing Concepts and Serverless Techniques.
-
 experiences:
     - role: Software Engineer 
       time: 2017 - 2018
@@ -80,7 +78,6 @@ experiences:
         and customers of every organization.
           - Ethereum
           - etc
-
     - role: Trainee of Network Security
       time: 2017
       company: National Library of Islamic Republic of Iran, Network Security Office, Tehran
@@ -88,31 +85,26 @@ experiences:
         I was responsible for implementing network scenarios using Cisco Devices[2960, 3850, ASA firewall series], 
         HP G6 server, Client Systems, Virtualization Tools[ESXI, VSphere, VCenter, Workstation], Network Monitoring Tools[PRTG]
         Windows Server 2016 services[DHCP, Active Directory]. I did this Project under the supervision of the manager of the Office "Ali Arab Ameri"
-
         I also learned Help Desking on the Help Desk Office of the NLAI organization under the supervision of the 
         Manager of the office Mr Mazinani.
           - Importance of Network Domain and it's use cases.
           - Power Maintenance techniques.
           - Troubleshooting and installing CPU
           - etc
-
     - role: Software Designer && Full Stack Developer 
       time: 2018 - Present
       company: Praxo Startup@Samsung Aut Tech, Tehran
       details: |
         We are about to develop Healthcare Platform and some of the side required tools, which can be very helpful for 
         both Patients/Customers and Doctors/Healthcare Systems.
-
         I am Software Designer and Full Stack Developer. Since the first day, I implemented a purified 
         SPA framework via pure Javacript. I also implemented one of our platforms using our Js framework and Django.
-
 projects:
     title: Projects
     intro: >
       #You can list your side projects or open source libraries in this
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
       - title: Online (Web Application) Examiner System Based on Game Theory
         link: "#hook"
@@ -152,7 +144,7 @@ projects:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
         
- publications:
+publications:
     title: Accomplishments
     intro: |
       I have the Following Certificates.
@@ -191,6 +183,3 @@ skills:
 
       - name: Avg(C, C++ , Php, Laravel, Java)
         level: 70%
-
-#footer: >
-#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
