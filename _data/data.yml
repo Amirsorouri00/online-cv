@@ -65,7 +65,7 @@ education:
       university: Isfahan University of Technology
       time: 2014 - 2018
       details: |
-        dfgd
+        
           - Grade: 16.8
           - Advisor Professor: Massoud Reza Hashemi@IUT
           - Ranked 1707 between at least 300k participants in Iran's M.Sc. nationwide entrance Exam in 2018.
@@ -155,21 +155,21 @@ projects:
         #conference: "Comm. ACM 4 (1961), 51–55"
         
 publications:
-    title: Certificates
+    title: Accomplishments
     intro: |
       I have the Following Certificates.
 
-    Network Certificates:
-      - title: Network+ 
-        company: Donald E. Knuth
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
-      - title: CCNA
-        authors: Cisco.
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: CCNP Switch && Route
-        authors: Cisco
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
