@@ -171,6 +171,23 @@ publications:
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+        
+ accomplishments:
+    title: Accomplishments
+    intro: |
+      I have the Following Certificates.
+    Certificates:
+      - title: Network+
+        authors: blob
+        conference: 1968
+
+      - title: CCNA
+        authors: Cisco
+        conference: 2018
+
+      - title: CCNP Route & Switch
+        authors: Cisco
+        conference: 2018-2019
 
 skills:
     title: Skills &amp; Proficiency
