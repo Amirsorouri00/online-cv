@@ -157,7 +157,7 @@ projects:
     intro: |
       I have the Following Certificates.
       
-    certificates:
+    papers:
       - title: Network+
         authors: blob
         conference: 1968
