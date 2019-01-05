@@ -68,7 +68,7 @@ education:
       
           - Grade: 16.8
           - Advisor Professor: Massoud Reza Hashemi@IUT
-          - Ranked 1707 between at least 300k participants in Iran's M.Sc. nationwide entrance Exam(2018).
+          - Ranked 1707 between at least 300k participants in Iran's M.Sc. nationwide entrance Exam in 2018.
           - Project Title: Optimizing Internet Of Things network Processes via Fog Computing Techniques.
 
 experiences:
@@ -86,20 +86,21 @@ experiences:
       company: National Library of Islamic Republic of Iran, Network Security Office, Tehran
       details: |
         I was responsible for implementing network scenarios using Cisco Devices[2960, 3850, ASA firewall series], 
-        HP G6 server, Client Systems, Virtualization Tools[ESXI, VSphere, Docker Container], Network Monitoring Tools[PRTG]. 
+        HP G6 server, Client Systems, Virtualization Tools[ESXI, VSphere, VCenter, Workstation], Network Monitoring Tools[PRTG]. 
         I did this Project under the supervision of the manager of the Office "Ali Arab Ameri"
 
         I also learned Help Desking on the Help Desk Office of the NLAI organization under the supervision of the 
         Manager of the office Mr Mazinani.
           - Importance of Network Domain and it's use cases.
-          - Some of the Power Maintenance techniques.
+          - Power Maintenance techniques.
+          - Troubleshooting and installing CPU
           - etc
 
     - role: Software Designer && Full Stack Developer 
       time: 2018 - Present
       company: Praxo Startup@Samsung Aut Tech, Tehran
       details: |
-        We are about to implement Healthcare Platform, and some of the side required tools, which can be very helpful for 
+        We are about to develop Healthcare Platform and some of the side required tools, which can be very helpful for 
         both Patients/Customers and Doctors/Healthcare Systems.
 
         I am Software Designer and Full Stack Developer. Since the first day, I implemented ourself purified 
@@ -108,9 +109,9 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: Online (Web Application) Examiner System Based on Game Theory
@@ -119,7 +120,7 @@ projects:
 
       - title: Stratego AI Game Player   
         link: "#"
-        tagline: "It is the result of Advanced Programming Course of BSc. I implemented this player having Contribution with Mostafa Lesani(My teammate). Finally this Game ranked One on both between about 20 teams from inside IUT and other participants inside contest of the IUT from inside and outside IUT."
+        tagline: "It is the result of Advanced Programming Course of BSc. I implemented this player having Contribution with Mostafa Lesani(My teammate). Finally this Game ranked One on both between about 20 teams from inside IUT and other participants inside contest of the IUT from inside and outside IUT. This project is accessible from my Github."
 
       #- title: Tempo
       #  link: "#"
