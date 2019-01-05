@@ -156,6 +156,7 @@ projects:
     title: Accomplishments
     intro: |
       I have the Following Certificates.
+      
     certificates:
       - title: Network+
         authors: blob
